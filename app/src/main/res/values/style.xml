@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SwitchTheme" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/se_primary_color</item>
+        <item name="colorSwitchThumbNormal">@color/black_300</item>
+        <item name="android:colorForeground">#42221f1f</item>
+    </style>
+
+    <style name="DrawToolbarStyle">
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+</resources>

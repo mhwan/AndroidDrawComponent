@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CheckableButton">
+        <attr name="icon" format="reference" />
+        <attr name="android:enabled" />
+        <attr name="android:checked" />
+    </declare-styleable>
+    <declare-styleable name="DrawView">
+        <attr name="drawBackgroundColor" format="color" />
+    </declare-styleable>
+</resources>
